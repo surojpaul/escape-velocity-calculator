@@ -1,4 +1,5 @@
 G = 6.67e-11
+print("----Escape Velocity Calculator for Planets and Stars----")
 planet_mass = []
 planet_radius = []
 planet_name = []
